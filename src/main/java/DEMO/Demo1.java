@@ -17,7 +17,7 @@ public class Demo1
 		driver.get("https://www.seleniumhq.org/download/");
 		String title = driver.getTitle();
 		System.out.println(title);
-		System.out.println("Testing commit");
+		System.out.println("Testing commit1");
 		driver.close();
 	}
 }
